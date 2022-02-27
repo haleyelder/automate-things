@@ -1,0 +1,27 @@
+AUTOMATE THE BORING THINGS
+
+CH 1 - BASICS
+- expression: programming instructions
+- statements:
+- exponent (**)
+- modulus/remainder (%): 22 % 8 = 6
+- division/floored quotient( // ) : 22 // 8 = 2 (lowest they can be divisible)
+- floating point (decimals)
+- cannot concatenate different data type (int + string)
+    - "Alice" + 42 is error but "Alice" *3 = AliceAliceAlice
+- print(): output to terminal
+- len(): length of string
+- input(): ask for user input
+- str(), int(), float(): convert to diff data types 
+
+CH 2 - FLOW CONTROL
+- boolean: True or False
+- comparisons: less than, equal, not, etc
+    - == (equal to) evaluates to True when the values on both sides are the same, and != (not equal to) evaluates to True when the two values are different. The == and != operators can actually work with values of any data type.
+- not: not True = False
+- and: logical AND comparison
+- or: logical OR comparison 
+- if, else, elif statements
+- while loops
+- break statements: breaking a whle loop
+- continue: program execution goes back to start of loop and run's loop condition
