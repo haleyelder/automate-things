@@ -25,3 +25,11 @@ CH 2 - FLOW CONTROL
 - while loops
 - break statements: breaking a whle loop
 - continue: program execution goes back to start of loop and run's loop condition
+- for loop: for in range 
+- range(): range of numbers
+    eg: for i in range(5)
+    - range(0, 10, 2): 0 to 10, interval 2
+    - range(5,-1, -1): decrement 5 to 0, minus 1 each time
+- import library/modules (do not overwrite names)
+
+CH 3 - FUNCTIONS
