@@ -33,3 +33,17 @@ CH 2 - FLOW CONTROL
 - import library/modules (do not overwrite names)
 
 CH 3 - FUNCTIONS
+- def funct(): define/create function 
+- call: funct() to 'run' it
+- pass/passing: putting val in funct to pass to the rest of the funct
+- argument: the value being passed to funct
+- parameter: variables that have arguments assigned 
+- return: value returned from a function
+- None: absence of value; null
+- end= : replaces newline character with blank string
+- sep= : adding in a separator symbol (eg: print('09','12','2016', sep='-') // 09-12-2016)
+- call stack: see callstack.py
+- local scope: variables within function; can access global vars
+- global scope: variables outside of function, used everywhere, cannot access local vars
+    - global statement: if global and local called the same var, only global will be used
+- try/except: functions to test a flow that may cause an error (divideZero.py)
